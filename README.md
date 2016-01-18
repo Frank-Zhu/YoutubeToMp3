@@ -36,7 +36,7 @@ It's an application which uses convert Youtube videos to Mp3
     }
 
 ### Step 4 : Getting Video Title
-> We need the title of video to writing name of converted mp3 file. I used [HttpRequest Library](https://github.com/KroneckerX/Http-Request). It's a very useful library if you want to avoid code complexity and more code.
+> We need the title of video to writing name of converted mp3 file. I used [HttpRequest Library](https://github.com/KroneckerX/Http-Request). It's a very useful library if you want to avoid code complexity and more.
     
 
     {
