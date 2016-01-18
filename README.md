@@ -8,7 +8,8 @@ It's an application which uses convert Youtube videos to Mp3
 
 ### Step 1 : Getting Video ID
 
-    public static String extractYTId(String ytUrl) {
+    public static String extractYTId(String ytUrl) 
+    {
         String vId = null;
         Pattern pattern = Pattern.compile(
                 "^https?://.*(?:youtu.be/|v/|u/\\w/|embed/|watch?v=)([^#&?]*).*$",
@@ -55,6 +56,6 @@ It's an application which uses convert Youtube videos to Mp3
     }
 
 # Thanks
-> Thanks to Youtube in Mp3.com to access us this useful [API](http://www.youtubeinmp3.com/api/)
+> Thanks to youtubeinmp3.com for access this useful [API](http://www.youtubeinmp3.com/api/) to us.
 
 
