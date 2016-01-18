@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../HttpRequest/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../HttpRequest/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../HttpRequest/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../HttpRequest/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../HttpRequest/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../HttpRequest/libs" />
+        <option name="LIBRARY_PROJECT" value="true" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../HttpRequest/proguard_logs" />
+        <option name="UPDATE_PROPERTY_FILES" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../HttpRequest">
+      <sourceFolder url="file://$MODULE_DIR$/../HttpRequest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../HttpRequest/gen" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="EasyTool" level="project" />
+  </component>
+</module>

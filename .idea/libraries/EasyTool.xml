@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EasyTool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/EasyTool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
