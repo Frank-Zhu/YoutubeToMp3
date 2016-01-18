@@ -21,7 +21,7 @@ It's an application which uses convert Youtube videos to Mp3
     }
     
 ### Step 2 : Get Video thumbnail image from Youtube API
-> I used my EasyTool library to load image.
+> I used my [EasyTool](https://github.com/TayfunCesur/EasyTool) library to load image.
 
     {
         img.L("http://img.youtube.com/vi/"+video_id+"/0.jpg");
