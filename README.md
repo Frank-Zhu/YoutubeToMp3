@@ -52,7 +52,7 @@ It's an application which uses convert Youtube videos to Mp3
                         
                     }
                 };
-                factory.executeRequest(RequestType.GET,"http://www.youtubeinmp3.com/fetch/?format=JSON&video=https://www.youtube.com/wa                 tch?v="+**VIDEO_ID**,null);
+                factory.executeRequest(RequestType.GET,"http://www.youtubeinmp3.com/fetch/?format=JSON&video=https://www.youtube.com/watch?v="+**VIDEO_ID**,null);
     }
 
 # Thanks
