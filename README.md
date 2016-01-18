@@ -31,7 +31,7 @@ It's an application which uses convert Youtube videos to Mp3
 > Just make a UrlConnection and use inputstream to get converted file.Example usage is up there.
 
     {
-        new AsyncTask().execute("http://www.youtubeinmp3.com/fetch/?video=https://www.youtube.com/watch?v="+<b>VIDEO_ID</b>");
+        new AsyncTask().execute("http://www.youtubeinmp3.com/fetch/?video=https://www.youtube.com/watch?v="+**VIDEO_ID**");
     }
 
 ### Step 4 : Getting Video Title
